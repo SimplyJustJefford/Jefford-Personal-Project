@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+body
+{
+    background-color: green;
+}
+<html>
+    <head>
+    <body>
+        <title>Jefford Project</title>
+    </head>
+        <h1>Main Page</h1>
+        <p>Welcome to my website</p>
+        <br>
+        <p>The following below are links to other projects I have created or in the progress of creating.</p>
+        <a href="file:///C:/Users/lam_j/Downloads/About_Jefford.html"> About Me Page</a>
+     </body>
+<html>
